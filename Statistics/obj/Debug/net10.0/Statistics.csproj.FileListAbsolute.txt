@@ -1,0 +1,11 @@
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\bin\Debug\net10.0\Statistics.deps.json
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\bin\Debug\net10.0\Statistics.dll
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\bin\Debug\net10.0\Statistics.pdb
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\Statistics.AssemblyInfo.cs
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\Statistics.dll
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\refint\Statistics.dll
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\Statistics.pdb
+C:\Users\aoi23\OneDrive\Desktop\tutorial\Statistics\obj\Debug\net10.0\ref\Statistics.dll

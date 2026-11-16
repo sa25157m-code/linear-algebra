@@ -1,0 +1,8 @@
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\bin\Debug\net10.0\.msCoverageExtensionSourceRootsMapping_ConsoleRandPerm
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.csproj.AssemblyReference.cache
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.gentestingplatformentrypointinputcache.cache
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.genautoregisteredextensionsinputcache.cache
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.AssemblyInfoInputs.cache
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.AssemblyInfo.cs
+C:\Users\aoi23\OneDrive\Desktop\tutorial\ConsoleRandPerm\obj\Debug\net10.0\ConsoleRandPerm.csproj.CoreCompileInputs.cache
