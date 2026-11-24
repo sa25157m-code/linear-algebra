@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aoi23\\OneDrive\\Desktop\\tutorial\\LinearAlgebra\\LinearAlgebra.csproj",
+      "projectUniqueName": "C:\\Users\\aoi23\\OneDrive\\Desktop\\2026-assignment-AAA25149\\LinearAlgebra\\LinearAlgebra.csproj",
       "projectName": "LinearAlgebra",
-      "projectPath": "C:\\Users\\aoi23\\OneDrive\\Desktop\\tutorial\\LinearAlgebra\\LinearAlgebra.csproj",
+      "projectPath": "C:\\Users\\aoi23\\OneDrive\\Desktop\\2026-assignment-AAA25149\\LinearAlgebra\\LinearAlgebra.csproj",
       "packagesPath": "C:\\Users\\aoi23\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aoi23\\OneDrive\\Desktop\\tutorial\\LinearAlgebra\\obj\\",
+      "outputPath": "C:\\Users\\aoi23\\OneDrive\\Desktop\\2026-assignment-AAA25149\\LinearAlgebra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aoi23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\aoi23\\OneDrive\\Desktop\\tutorial\\Statistics\\Statistics.csproj": {
-              "projectPath": "C:\\Users\\aoi23\\OneDrive\\Desktop\\tutorial\\Statistics\\Statistics.csproj"
+            "C:\\Users\\aoi23\\OneDrive\\Desktop\\2026-assignment-AAA25149\\Statistics\\Statistics.csproj": {
+              "projectPath": "C:\\Users\\aoi23\\OneDrive\\Desktop\\2026-assignment-AAA25149\\Statistics\\Statistics.csproj"
             }
           }
         }
